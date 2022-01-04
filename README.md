@@ -1,4 +1,4 @@
-CS 162 Group Repository
+CS 162 Pintos Repository
 =======================
 
-This repository contains code for CS 162 group projects.
+This repository contains an archive of the staff/skeleton Pintos code for CS 162.
